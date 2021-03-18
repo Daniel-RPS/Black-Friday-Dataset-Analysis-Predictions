@@ -8,6 +8,6 @@
 
 * Link original: https://datahack.analyticsvidhya.com/contest/black-friday/
 
-**Objetivo: Determinar qual o melhor modelo de regressão para este problema.
+Objetivo: Determinar qual o melhor modelo de regressão para este problema.
 
-**Problem: Determine the best regression model for this problem.
+Problem: Determine the best regression model for this problem.
